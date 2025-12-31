@@ -147,4 +147,4 @@ This approach reduces the black-box nature of deep learning models and improves 
 
 ---
 
-kalmayıp, phishing içeriklerini kategorize edebilmekte ve kararlarını doğal dilde açıklayabilmektedir. Çalışma, yüksek doğruluk, güçlü bağlamsal analiz ve kullanıcıya yönelik açıklanabilirlik sunan bütüncül bir siber güvenlik çözümü önermektedir.
+
